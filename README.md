@@ -31,8 +31,9 @@
 - **Others:** Git, GitHub, REST APIs, JWT Authentication
 
 ### 📊 Competitive Programming Scores
-- **LeetCode:** [View Profile](https://leetcode.com/nisargdp48) 
-- **HackerRank:** [View Profile](https://www.hackerrank.com/nisargdp) 
+- **HackerRank:** [View Profile](https://www.hackerrank.com/nisargdp)
+- **CodeChef:** [View Profile](https://www.codechef.com/users/ndp48)
+- **LeetCode:** [View Profile](https://leetcode.com/u/NDPatel48/)
 
 ### 📫 How to reach me 
 - **Email:** nisargdp48@gmail.com
