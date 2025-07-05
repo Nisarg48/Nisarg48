@@ -14,7 +14,7 @@
   <a href="https://www.hackerrank.com/nisargdp" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank" alt="nisargdp" />
   </a>
-  <a href="https://leetcode.com/nisargdp48" target="_blank">
+  <a href="https://leetcode.com/u/NDPatel48" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode" alt="nisargdp48" />
   </a>
 </p>
@@ -40,10 +40,10 @@ I'm a passionate Full Stack Development and a growing expertise in Machine Learn
 ## 🏆 Competitive Programming
 | **Platform**       | **Achievements**                              | **Profile**                                                             |
 |--------------------|-----------------------------------------------|-------------------------------------------------------------------------|
-| **LeetCode**       | Solved 100+ problems (Data Structures & Algorithms + SQL) | [View Profile](https://leetcode.com/nisargdp48)                         |
+| **LeetCode**       | Solved 100+ problems (Data Structures & Algorithms + SQL) | [View Profile](https://leetcode.com/u/NDPatel48)                         |
 | **HackerRank**     | Badges of C, C++, Java        | [View Profile](https://www.hackerrank.com/nisargdp)                     |
-| **GeeksforGeeks**  | Solved 50+ problems                           | [View Profile](https://auth.geeksforgeeks.org/user/nisargdp48)          |
-| **CodeChef**       | Participate in programming contests     | [View Profile](https://www.codechef.com/users/ndp48)  
+| **GeeksforGeeks**  | Solved 50+ problems                           | [View Profile](https://www.geeksforgeeks.org/user/nisargdpre4p/)          |
+| **CodeChef**       | Participate in programming contests     | [View Profile](https://www.codechef.com/users/ndp48)  |
 
 ---
 
